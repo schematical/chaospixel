@@ -107,7 +107,7 @@ class GAN():
         PATH = os.getcwd()
 
         # Define data path
-        data_path = PATH + '/../mydata/data'
+        data_path = PATH + '/data'
         data_dir_list = os.listdir(data_path)
 
 
